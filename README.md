@@ -28,7 +28,7 @@ A modern, responsive personal portfolio website built to showcase my projects, s
 - Projects showcase with live links
 - Tech stack / skills section
 - Certifications section
-- Contact section with email button
+- Contact section
 - Mobile-friendly navigation menu
 
 ---

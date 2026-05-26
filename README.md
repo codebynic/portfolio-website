@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website built to showcase my projects, s
 
 ## 🚀 Live Demo
 
-👉 https://yourusername.github.io/your-repo-name/
+👉 https://codebynic.github.io/portfolio-website/
 
 ---
 

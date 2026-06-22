@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+@keyframes fadeSlide {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes dance1 {
+    0%, 100% {
+      transform: translate(0, 0) rotate(0deg);
+    }
+    50% {
+      transform: translate(40px, -30px) rotate(180deg);
+    }
+  }
+
+  @keyframes dance2 {
+    0%, 100% {
+      transform: translate(0, 0) scale(1);
+    }
+    50% {
+      transform: translate(-50px, 40px) scale(1.1);
+    }
+  }
+
+  @keyframes dance3 {
+    0%, 100% {
+      transform: translate(0, 0);
+    }
+    50% {
+      transform: translate(30px, -50px);
+    }
+  }
+
+  @keyframes dance4 {
+    0%, 100% {
+      transform: translate(0, 0) rotate(0deg);
+    }
+    50% {
+      transform: translate(-30px, -30px) rotate(90deg);
+    }
+  }
+
+  @keyframes dance5 {
+    0%, 100% {
+      transform: translate(0, 0) scale(1);
+    }
+    50% {
+      transform: translate(60px, -20px) scale(1.3);
+    }
+  }
